@@ -1,0 +1,22 @@
+{
+  "info": {
+    "_postman_id": "5aee8275-8dca-4f4d-9133-565357081f56",
+    "name": "test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "_postman_id": "f3e3b71f-46ee-4510-9efa-8b9bf5d09c24",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:9090/api/category"
+      },
+      "response": []
+    }
+  ]
+}
